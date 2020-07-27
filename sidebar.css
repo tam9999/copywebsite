@@ -1,0 +1,34 @@
+
+.anh1 {
+    width: 100%; 
+    height: 402px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+.anh2 {
+    width: 100%; 
+    height: 402px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+a {
+    margin-bottom: 10px;
+    font-family:  Helvetica, sans-serif;
+    text-decoration: none;
+    color: rgb(121, 98, 98);
+    padding: 20px;
+    font-style: oblique;
+}
+.a, .t1 {
+    margin-bottom: 10px;
+    padding-left: 20px;
+}
+.sidebar2 {
+    padding-bottom: 50px;
+}
+
+a:hover {
+    color: rgb(168, 90, 0);
+    font-style: normal;
+}

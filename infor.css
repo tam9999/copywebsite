@@ -1,0 +1,69 @@
+.if1 {
+    width: 80%;
+    padding-left: 50px;
+}
+.if2 {
+    width: 75%;
+    padding-left: 50px;
+}
+.if3 {
+    width: 71%;
+    padding-left: 50px;
+}
+.if4 {
+    width: 80%;
+    padding-left: 50px;
+}
+.if5 {
+    width: 75%;
+    padding-left: 50px;
+}
+h4 {
+    font-family:  sans-serif;
+    padding-left: 150px;
+    font-style: oblique;
+    color: rgb(121, 98, 98);
+}
+
+.infor6 {
+    padding-top: 20px;
+}
+.st {
+    font-family: "Classico Regular",Optima,Arial,sans-serif;
+    font-style: normal;
+    font-size: 16px;
+    margin: 0 0 16px 0;
+}
+.model-body {
+    margin: 0 0 10px 0;
+    padding: 2px 250px 2px 0;
+}
+
+h3 {
+    font-family: "Classico Regular",Optima,Arial,sans-serif;
+    font-style: normal;
+    font-size: 16px;
+    margin: 0 0 16px 0;
+}
+
+.btn {
+    background-color: #FFF;
+ 
+  color: black;
+  padding: 5px 110px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.btn:hover {
+    background-color: black;
+    color: #fff;
+}
+h4:hover {
+    color: rgb(168, 90, 0);
+    font-style: normal;
+}

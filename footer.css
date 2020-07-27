@@ -1,0 +1,15 @@
+.footer {
+    background-color: black;
+    color: white;
+    list-style: none;
+    text-align: center;
+    font-family:sans-serif;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+}
+
+
+p {
+    font-size: 11px;
+
+}
