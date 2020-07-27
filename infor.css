@@ -57,11 +57,13 @@ h3 {
   font-size: 16px;
   margin: 4px 2px;
   cursor: pointer;
+  font-style: oblique;
 }
 
 .btn:hover {
     background-color: black;
     color: #fff;
+    font-style: normal;
 }
 h4:hover {
     color: rgb(168, 90, 0);
