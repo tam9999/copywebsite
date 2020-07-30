@@ -6,10 +6,60 @@
     font-family:sans-serif;
     letter-spacing: 1px;
     word-spacing: 2px;
+    padding: 0;
+    margin: 0;
+    width: 100%;
 }
 
 
 p {
-    font-size: 11px;
-
+    font-size: 0.5em;
+    margin: 0;
+    padding-bottom: 2em;
 }
+
+hr {
+    border: 1px dashed #fff;
+}
+
+#menu{
+    margin: 0;
+    padding: 0;
+  }
+  #menu li{
+    list-style: none;
+    display: inline-block;
+  }
+  #menu li a{
+    text-decoration: none;
+    position: relative;
+    color: #fff;
+    font-size: 0.8em;
+    font-weight: 50;
+    font-family: sans-serif;
+    display: block;
+    overflow: hidden;
+    transition: 0.5s all;
+    padding:0 1em;
+    text-transform: uppercase;
+  }
+  #menu li a:before{
+    content: '';
+    bottom:0;
+    width: 0;
+    position: absolute;
+    border-bottom: 4px solid #fff;
+    bottom: -3px;
+    left: 0;
+    transform: translateY(-50%);
+    transition: 0.5s all;
+  }
+  #menu li a:hover:before{
+    width: 100%;
+  }
+  h2 {
+    padding-top: 1em;
+  }
+  .container-fluid {
+    padding: 0;
+  }

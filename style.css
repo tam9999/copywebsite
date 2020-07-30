@@ -5,15 +5,11 @@
     grid-template-areas: 
     'header header header header header header'
     'main main main main main main'
-    'sidebar sidebar sidebar sidebar2 sidebar2 sidebar2'
+    'sidebar sidebar sidebar sidebar sidebar2 sidebar2'
     'infor1 infor1 infor2 infor2 infor3 infor3'
     'infor4 infor4 infor5 infor5 infor6 infor6'
     'footer footer footer footer footer footer';
-   
-   
 }
-
-
 .header { grid-area: header; }
 .main { grid-area: main; }
 .sidebar { grid-area: sidebar; }
@@ -46,4 +42,29 @@
    margin: 0;
 }
  */
+ /* @media screen and (max-width: 1024){
+    .container-fluid{
+        padding: 0;
+        margin: 0;
+    }
+}
+ @media screen and (max-width: 992px){
+    .container-fluid{
+        padding: 0;
+        margin: 0;
+    }
+}
 
+ @media screen and (max-width: 768px){
+    .container-fluid{
+        padding: 0;
+        margin: 0;
+    }
+ }
+
+ @media screen and (max-width: 540px){
+    .container-fluid{
+        padding: 0;
+        margin: 0;
+    }
+ } */
